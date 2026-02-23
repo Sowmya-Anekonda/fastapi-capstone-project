@@ -1,1 +1,1 @@
-# fastapi-sample-project
+# FastAPI Capstone Project
