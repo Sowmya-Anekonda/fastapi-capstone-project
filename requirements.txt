@@ -1,3 +1,7 @@
 python-dotenv
 fastapi
 uvicorn
+ipykernel
+pandas
+scikit-learn
+redis[async]
