@@ -5,3 +5,4 @@ ipykernel
 pandas
 scikit-learn
 redis[async]
+prometheus-fastapi-instrumentator
