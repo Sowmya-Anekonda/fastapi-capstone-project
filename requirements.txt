@@ -1,8 +1,14 @@
 python-dotenv
+python-jose
+
 fastapi
-uvicorn
+uvicorn[standard]
+
 ipykernel
 pandas
 scikit-learn
+numpy
+
 redis[async]
+
 prometheus-fastapi-instrumentator
